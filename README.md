@@ -94,6 +94,8 @@ Tom educativo e linguagem acessível em português.
 
 ## ✅ Resultado Final
 https://conversa-rica-ai.lovable.app
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/4ab2dac2-8f44-445d-9b66-c31ac17d2a9f" />
+
 
 ## 🤔 Reflexão
 ### O que funcionou bem
